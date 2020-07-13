@@ -1,0 +1,3 @@
+# this directory contains bucket configs so we make sure we don't check
+# its contents in source control
+*.txt
